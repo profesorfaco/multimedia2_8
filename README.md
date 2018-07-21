@@ -16,7 +16,7 @@ Hoy corresponde evaluar el el aprovechamiento en lo expuesto en clases [5](https
 
 ### Instrucciones
 
-Un sitio web, de 1 página, con 3 visualizaciones con D3.JS
+Utilizar el theme [Grayscale](https://startbootstrap.com/template-overviews/grayscale/) ya adaptado e incluido en este repositorio. En la página, modificar textos e incluir 3 visualizaciones con D3.JS
 
 ### Criterios de evaluación
 
