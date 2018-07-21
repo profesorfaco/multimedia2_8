@@ -2,12 +2,13 @@ Diseño Gráfico · Universidad de Chile
 
 # Multimedia II
 
-### Evaluación
+### Evaluación: 27 de julio, 2018
 
 Hoy corresponde evaluar el el aprovechamiento en lo expuesto en clases [5](https://github.com/profesorfaco/multimedia2_5), [6](https://github.com/profesorfaco/multimedia2_6) y [7](https://github.com/profesorfaco/multimedia2_7).
 
 #### Tienen que trabajar con datos ¿De dónde sacar datos? Algunas opciones:
 
+- https://es.datachile.io/
 - https://datos.bancomundial.org/
 - http://datos.gob.cl/dataset
 - https://github.com/jdorfman/awesome-json-datasets
@@ -15,7 +16,7 @@ Hoy corresponde evaluar el el aprovechamiento en lo expuesto en clases [5](https
 
 ### Instrucciones
 
-Un sitio web, de 3 páginas. Cada página con su SVG armado desde/con D3.JS
+Un sitio web, de 1 página, con 3 visualizaciones con D3.JS
 
 ### Criterios de evaluación
 
