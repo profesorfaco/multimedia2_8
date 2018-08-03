@@ -18,6 +18,11 @@ Hoy corresponde evaluar el el aprovechamiento en lo expuesto en clases [5](https
 
 Utilizar el theme [Grayscale](https://startbootstrap.com/template-overviews/grayscale/) ya adaptado e incluido en este repositorio. En la página, modificar textos e incluir 3 visualizaciones con D3.JS
 
-### Criterios de evaluación
+### Entregas
 
-Coherencia, pertinencia, etc. 
+| Nombre   |      Repositorio      |  GitHub Pages |
+|:----------|:-------------|:------|
+| Cárdenas, Braulio |  https://github.com/brauliocardenas/D3_EJERCICIO/ | https://brauliocardenas.github.io/D3_EJERCICIO/ |
+| Chocobar, Camila | — |    — |
+| Leal, Bárbara | https://github.com/powerpudu/27_julio_multimedia |  https://powerpudu.github.io/27_julio_multimedia/ |
+| Salazar, Luis | https://github.com/luissalazarfigueroa/Evaluacion2/ |   https://luissalazarfigueroa.github.io/Evaluacion2/ |
